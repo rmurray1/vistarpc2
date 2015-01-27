@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"system",
+				"SystemExit	class"
+			],
+			[
+				"True",
+				"True"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "testVcon.py",
+			"settings":
+			{
+				"buffer_size": 1261,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 201.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 298.0,
+		"history":
+		[
+			"??",
+			"help",
+			"print \"Hi\"",
+			"print settings",
+			"settings = sublime.load_settings(\"SublimeZilla.sublime-settings\")",
+			"view.run_command('meditrpc')",
+			"view.run_command('meditrpc\")",
+			"view.run_command('meidtrpc\")",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			">>>  import urllib2,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+			" import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib2,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+			" import urllib2,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/vavista-rpc/src",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/vavista-rpc/src/vavista",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/vavista-rpc/src/vavista/rpc"
+	],
+	"file_history":
+	[
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/vavista-rpc/src/vavista/rpc/brokerRPCLocal.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/vavista-rpc/src/vavista/rpc/brokerRPC.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/meditor/meditrpc.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/meditor/meditrpc-config.json",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/meditor/brokerRPC.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/meditor/brokerRPCLocal.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/VistaConnection.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/README",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/VistaUser.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/runs/VistaSelectRuns.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/tests/testVistaUser.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/tests/testVistaSelect.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/pyVista.iml",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/tests/testVistaRpc.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/tests/testVistaConnection.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/tests/testRpcParameter.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/tests/testVistaUtils.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/VistaRpc.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/VistaSelect.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/pyVista-1/VistaUtils.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/meditor/Python_vista_RemoteConnection.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/meditor/PackRO.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/meditor/Python_vista_OSEHRAHelper.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/meditor/Python_vista_RemoteConnection(1).py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/meditor/ParseKIDS.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/meditor/AGNRMSN2.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/VistA-Files/FMQL/Framework/brokerRPC.py",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Packages/meditrpc/meditrpc.py",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Packages/ExportHtml/ExportHtml.sublime-settings",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/vhantxmurrar/Library/Application Support/TextMate/Managed/Bundles/Bundle Support.tmbundle/Support/shared/lib/current_word.rb",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Installed Packages/MUMPS.tmbundle.sublime-package",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Local/Session.sublime_session",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Local/Auto Save Session.sublime_session",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/Users/vhantxmurrar/Documents/Raleigh/VistA-Files/FMQL/Test/testQP.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/VistA-Files/FMQL/Framework/describeResult.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/meditor/AGNRMSNG.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/VistA-Files/FMQL/Apache/fmqlEP.wsgi",
+		"/Users/vhantxmurrar/Documents/MTools/M-Tools-Project-1/us.pwc.vista.eclipse.server/src/us/pwc/vista/eclipse/server/core/LoadRoutineEngine.java",
+		"/Users/vhantxmurrar/Documents/Raleigh/R2PortMagicNumbers/confCons.xml",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/vavista-rpc/README.rst",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/testrpc.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/PackRO.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/delphi_projects/R2VistAMonitor/notesKID/R2VMON_1_0.KID",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/vavista-rpc/src/vavista_rpc.egg-info/SOURCES.txt",
+		"/Users/vhantxmurrar/Documents/MTools/M-Tools-Project-1/MiscDependencies/KIDS/M-Editor/XT73P101T9.KID",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/ParseKIDS.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts/vavista-rpc/testrpc.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/VistA-Files/FMQL/Framework/rmtest.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/notes-R1RAD.txt",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/upload/R1RARNU2.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/notes-AXARAD-1_0",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/upload/R1RARNU4.m",
+		"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/upload/R1RARNU3.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/PackRO.py",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/R1RARNU1.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/R1RARNU8.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/R1RARNU5.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/R1RARNU7.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/R1RARNU6.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/R1RARNU4.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/R1RARNU3.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/R1RARNU2.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/AXARDGUI.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/AXAR.m",
+		"/Volumes/vhantxmurrar/Raleigh/Assignments/Region2/R2REPORTS_1_0/R2REPORTDRIVE_1_0V1.KID",
+		"/Users/vhantxmurrar/Documents/Raleigh/VistA-Files/FMQL/MUMPS/FMQLQP.m",
+		"/Users/vhantxmurrar/Documents/Raleigh/VistA-Files/FMQL/Framework/untitled 2.txt"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/vhantxmurrar/Library/Application Support/Sublime Text 3",
+			"/Users/vhantxmurrar/Library/Application Support",
+			"/Users/vhantxmurrar/Documents/Raleigh/VistA-Files/FMQL",
+			"/Users/vhantxmurrar/Documents/Raleigh/VistA-Files",
+			"/Users/vhantxmurrar/Documents/MTools",
+			"/Users/vhantxmurrar/Documents/Raleigh/Assignments/Scripts",
+			"/Users/vhantxmurrar/Documents/Raleigh/VistA-Files/FMQL/Framework",
+			"/Users/vhantxmurrar/Documents/Raleigh/Assignments/VistA_projects/Radnuc/srcGUI",
+			"/Users/vhantxmurrar/Documents/Raleigh/VistA-Files/FMQL"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"my_ip",
+			"host",
+			"makeRequest",
+			"host",
+			"from",
+			"host",
+			"makeRequest",
+			"socket.gethostbyname",
+			"invokeRPC",
+			"OP",
+			"pli",
+			"pl",
+			"host",
+			"local",
+			"tab_size",
+			"\\n",
+			"invoke",
+			"\\n",
+			"invoke",
+			"XT ECLIPSE M EDITOR",
+			"OPTION",
+			"vavista",
+			"brokerRPC",
+			"AXAC",
+			"DFN",
+			"SSN",
+			"NAME",
+			"I",
+			"AXA RAD/NUC",
+			"cpt",
+			"LOC",
+			"VistARPC",
+			"brokerRPC",
+			"install",
+			"LS1",
+			"LSI",
+			"PRINTERS("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"R1(\"SSN\")",
+			"R1(\"NAME\")",
+			"R1(\"I\")"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "testVcon.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								808,
+								808
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 173.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "vavista-rpc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"R1RARNU7.m"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

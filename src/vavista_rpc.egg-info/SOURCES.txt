@@ -1,0 +1,11 @@
+setup.py
+src/vavista/__init__.py
+src/vavista/rpc/__init__.py
+src/vavista/rpc/brokerRPC.py
+src/vavista/rpc/brokerRPCLocal.py
+src/vavista_rpc.egg-info/PKG-INFO
+src/vavista_rpc.egg-info/SOURCES.txt
+src/vavista_rpc.egg-info/dependency_links.txt
+src/vavista_rpc.egg-info/namespace_packages.txt
+src/vavista_rpc.egg-info/not-zip-safe
+src/vavista_rpc.egg-info/top_level.txt
